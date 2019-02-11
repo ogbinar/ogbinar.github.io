@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Randcom Stuff
 tagline:          'Read with caution'
-description:      'Some guy just thinking of things and dumping them here.'
+description:      'Just some guy just thinking of things and dumping them here.'
 url:              http://ogbinar.com
 baseurl:          http://ogbinar.github.io/
 
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.1
 
 github:
   repo:           https://github.com/ogbinar

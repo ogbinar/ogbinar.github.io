@@ -20,6 +20,8 @@ Things to add:
 * Links
 * Projects
 * Todo
+* Theme
+* Some detailed copyright
 
 
 myk
