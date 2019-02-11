@@ -22,5 +22,12 @@ paginate:         5
 # Custom vars
 version:          0.1
 
-github:
-  repo:           https://github.com/ogbinar
+link:
+  
+  email:    mailto:myk.ogbinar@yahoo.com.ph
+  linkedin: https://www.linkedin.com/in/ogbinar/  
+  github:           https://github.com/ogbinar
+  facebook: https://www.facebook.com/ogbinar
+  messenger:    http://m.me/ogbinar
+  instagram:    https://www.instagram.com/ogbinar/
+  twitter:  https://twitter.com/ogbinar
