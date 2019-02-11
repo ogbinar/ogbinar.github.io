@@ -6,11 +6,11 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Pseudo Random Generator
+title:            Randcom Stuff
 tagline:          'Read with caution'
 description:      'Some guy just thinking of things and dumping them here.'
 url:              http://ogbinar.com
-baseurl:          /
+baseurl:          http://ogbinar.github.io/
 
 author:
   name:           'Myk'
