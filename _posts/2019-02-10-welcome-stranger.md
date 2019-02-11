@@ -8,12 +8,14 @@ I'm currently migrating from my old host so please stand by. I mean I think it's
 I'll talk about my decision, design, and process of migrating later on here. Once I figure out how everything works.
 
 New tech stack:
+
 * CMS: Github Pages + Markdown
 * Theme: Jekyll
 * Hosting: Github Pages
 * Domain: NearlyFreeSpeech
 
 Things to add:
+
 * Blog 
 * Links
 * Projects
