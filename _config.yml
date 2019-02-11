@@ -2,7 +2,7 @@
 
 highlighter:      rouge
 plugins: [jekyll-paginate]
-google_analytics: [UA-2474755-2]
+google_analytics: 'UA-2474755-2'
 
 # Permalinks
 permalink:        pretty
