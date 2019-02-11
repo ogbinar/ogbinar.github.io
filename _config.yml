@@ -1,5 +1,26 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-title: [Just Random Stuff]
-description: [This will be a dumping ground for things in my mind. Read with caution.]
-google_analytics: [UA-2474755-2]
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Pseudo Random Generator
+tagline:          'Read with caution'
+description:      'Some guy just thinking of things and dumping them here.'
+url:              http://ogbinar.com
+baseurl:          /
+
+author:
+  name:           'Myk'
+  url:            https://twitter.com/ogbinar
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ogbinar
