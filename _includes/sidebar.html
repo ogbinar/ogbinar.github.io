@@ -27,13 +27,28 @@
       {% endfor %}
 
   
-      <a class="sidebar-nav-item" href="{{ site.link.email }}">Email</a>
-      <a class="sidebar-nav-item" href="{{ site.link.linkedin }}">Linkedin</a>
-      <a class="sidebar-nav-item" href="{{ site.link.github }}">Github</a>
-      <a class="sidebar-nav-item" href="{{ site.link.facebook }}">Facebook</a>
-      <a class="sidebar-nav-item" href="{{ site.link.messenger }}">Messenger</a>
-	  <a class="sidebar-nav-item" href="{{ site.link.instagram }}">Instagram</a>
-	  <a class="sidebar-nav-item" href="{{ site.link.twitter }}">Twitter</a>
+      <a class="sidebar-nav-item" href="{{ site.link.email }}">Contact Me</a>
+	  
+	    <!-- social buttons -->
+	  <a href="{{site.link.linkedin}}" target="_blank" style="text-decoration:none">
+        <i class="fa fa-linkedin"></i>
+      </a>
+	  <a href="{{site.link.github}}" target="_blank" style="text-decoration:none">
+        <i class="fa fa-github"></i>
+      </a>
+	  <a href="{{site.link.facebook}}" target="_blank" style="text-decoration:none">
+        <i class="fa fa-facebook"></i>
+	  <a href="{{site.link.steam}}" target="_blank" style="text-decoration:none">
+      </a>
+        <i class="fa fa-steam"></i>
+      </a>
+	  <a href="{{site.link.instagram}}" target="_blank" style="text-decoration:none">
+        <i class="fa fa-instagram"></i>
+      </a>
+	  <a href="{{site.link.twitter}}" target="_blank" style="text-decoration:none">
+        <i class="fa fa-twitter"></i>
+      </a>
+       
 	  {% include archive.html %}
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
