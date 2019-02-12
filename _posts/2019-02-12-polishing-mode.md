@@ -12,6 +12,6 @@ I spent around 2 hours today just polishing the layout and setup of this blog. I
 
 In other news I also spent sometime playing some PUBG just to relax a bit.
 
-![alt text](public/images/pubg1.jpg=800x400 "Nightcap Dinner.")
+![alt text](http://ogbinar.com/public/images/pubg1.jpg "Nightcap Dinner.")
 
 myk
