@@ -1,7 +1,7 @@
 # Dependencies
 
 highlighter:      rouge
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate,jekyll-seo-tag, jekyll-sitemap]]
 google_analytics: 'UA-2474755-2'
 
 # Permalinks
