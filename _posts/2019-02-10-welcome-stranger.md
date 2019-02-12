@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome Stranger
+tags: blog 
 ---
 
 I'm currently migrating from my old host so please stand by. I mean I think it's like a natural law of nature that every so often IT guys will rethink their architecture / tech stack and do a "migration". 
