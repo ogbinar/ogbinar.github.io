@@ -1,34 +1,26 @@
-# Dependencies
-
-highlighter:      rouge
-plugins: [jekyll-paginate,jekyll-seo-tag, jekyll-sitemap]
-google_analytics: 'UA-2474755-2'
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Random Stuff
-tagline:          'Read with caution'
-description:      'Just some guy just thinking of things and dumping them here.'
-url:              http://ogbinar.com
-baseurl:          http://ogbinar.github.io/
-
 author:
-  name:           'Myk'
-  url:            https://twitter.com/ogbinar
-
-paginate:         5
-
-# Custom vars
-version:          0.1
-
+  name: Myk
+  url: https://twitter.com/ogbinar
+baseurl: http://ogbinar.github.io/
+description: Just some guy just thinking of things and dumping them here.
+google_analytics: UA-2474755-2
+highlighter: rouge
 link:
-  
-  email:    mailto:myk.ogbinar@yahoo.com.ph
-  linkedin: https://www.linkedin.com/in/ogbinar/  
-  github:           https://github.com/ogbinar
+  email: mailto:myk.ogbinar@yahoo.com.ph
   facebook: https://www.facebook.com/ogbinar
-  steam:    https://steamcommunity.com/profiles/76561198028150606/
-  instagram:    https://www.instagram.com/ogbinar/
-  twitter:  https://twitter.com/ogbinar
+  github: https://github.com/ogbinar
+  instagram: https://www.instagram.com/ogbinar/
+  linkedin: https://www.linkedin.com/in/ogbinar/
+  raspberrypi: http://c1669527.ap.ngrok.io
+  steam: https://steamcommunity.com/profiles/76561198028150606/
+  twitter: https://twitter.com/ogbinar
+paginate: 5
+permalink: pretty
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
+tagline: Read with caution
+title: Random Stuff
+url: http://ogbinar.com
+version: 0.1
