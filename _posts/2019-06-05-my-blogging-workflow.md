@@ -19,4 +19,8 @@ Version 2.0 (Today) - Planning for the above solution took me a long time to go 
 
 online Netlify CMS Editor -> Netlify Jekyll Build -> Push to Git -> Github Pages -> Http://ogbinar.com
 
-This new work flow not only addresses most of my initial challenges, but also adds a new more features needed such as 1) authentication 2) Rich text editor 3) A UI that reflects my simple blog requirements and 4)
+This new work flow not only addresses most of my initial challenges, but also adds a new more features needed such as 1) authentication 2) Rich text editor 3) A UI that reflects my simple blog requirements and my favorite 4) it's free and open source!
+
+![](/public/images/1.png)
+
+myk
