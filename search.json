@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "disclaimer/index.html",
+    "href": "disclaimer/index.html",
+    "title": "Michel Learns to Code",
+    "section": "",
+    "text": "Opinions expressed on this Site are the authors’ own in his personal capacity. They do not reflect the views of any country, organisation, company he is associated with."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Michel Learns to Code",
     "section": "",
-    "text": "I am a data specialist, currently working in a conglomerate in the Philippines. Currently, I’m a 2nd year Artificial Intelligence PhD student. My research interest is in unstructured data, particularly computer vision, multi-model, and remote sensing / geosatellite applications of machine learning. On the side, I teach / mentor about Data Science in FTW Foundation. I manage a tech data community, Data Engineering Pilipinas."
+    "text": "I am a data specialist, currently working in a conglomerate in the Philippines. Currently, I’m a 2nd year Artificial Intelligence PhD student. My research interest is in unstructured data, particularly computer vision, multi-modal models, large language and vision models, and remote sensing / geosatellite applications of machine learning. On the side, I teach / mentor about Data Science in FTW Foundation. I manage a tech data community, Data Engineering Pilipinas. One of my goals is to eventually build free and open source materials that will enable free data bootcamps in the Philippines."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Michel Learns to Code",
     "section": "",
-    "text": "I am a data specialist, currently working in a conglomerate in the Philippines. Currently, I’m a 2nd year Artificial Intelligence PhD student. My research interest is in unstructured data, particularly computer vision, multi-model, and remote sensing / geosatellite applications of machine learning. On the side, I teach / mentor about Data Science in FTW Foundation. I manage a tech data community, Data Engineering Pilipinas."
+    "text": "I am a data specialist, currently working in a conglomerate in the Philippines. Currently, I’m a 2nd year Artificial Intelligence PhD student. My research interest is in unstructured data, particularly computer vision, multi-modal models, large language and vision models, and remote sensing / geosatellite applications of machine learning. On the side, I teach / mentor about Data Science in FTW Foundation. I manage a tech data community, Data Engineering Pilipinas. One of my goals is to eventually build free and open source materials that will enable free data bootcamps in the Philippines."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Michel Learns to Code",
+    "section": "Projects",
+    "text": "Projects\n\nData Engineering Pilipinas"
   }
 ]
