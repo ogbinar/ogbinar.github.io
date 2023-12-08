@@ -1,1 +1,1 @@
-Sitemap: https://ogbinar.com/sitemap.xml
+Sitemap: https://ogbinar.github.io/sitemap.xml
