@@ -23,3 +23,4 @@ I am a data specialist, currently working in a conglomerate in the Philippines. 
 
 ## Projects
 - [Data Engineering Pilipinas](https://github.com/ogbinar/DataEngineeringPilipinas)
+- [Learn Data Skills - Free & Open Source Data Skills Reference](https://learndataskills.ph)
