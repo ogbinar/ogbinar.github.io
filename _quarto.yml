@@ -1,0 +1,36 @@
+project:
+  type: website
+  pre-render:
+
+resources:
+  - CNAME
+
+website:
+  title: "Michel Learns to Code"
+  description: "He is called Myk by his friends."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+  page-footer:
+    left: "(c) Myk Ogbinar, 2023–. [Disclaimer](disclaimer)"
+  twitter-card: true
+  open-graph: true
+  google-analytics: "G-JCLY1ES3FT"
+
+format:
+  html:
+    theme:
+      - lux
+      - custom.scss
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
+
+
+
+
