@@ -5,12 +5,13 @@ about:
     links:
         - icon: linkedin
           text: LinkedIn
-          url: https://www.linkedin.com/in/ogbinar/
+          href: https://www.linkedin.com/in/ogbinar/
         - icon: github
           text: Github
           url: https://github.com/ogbinar
-        - text: "{{< fa envelope >}} Email"
-          url: mailto:myk.ogbinar@yahoo.com.ph
+        - icon: envelope
+          text: Email
+          href: mailto:myk.ogbinar+internet@gmail.com
 
  
 comments: false
@@ -18,4 +19,7 @@ comments: false
 
 ## Bio
 
-I am a data specialist, currently working in a conglomerate in the Philippines. Currently, I'm a 2nd year Artificial Intelligence PhD student. My research interest is in unstructured data, particularly computer vision, multi-model, and remote sensing / geosatellite applications of machine learning. On the side, I teach / mentor about Data Science in FTW Foundation. I manage a tech data community, Data Engineering Pilipinas.
+I am a data specialist, currently working in a conglomerate in the Philippines. Currently, I'm a 2nd year Artificial Intelligence PhD student. My research interest is in unstructured data, particularly computer vision, multi-modal models, large language and vision models, and remote sensing / geosatellite applications of machine learning. On the side, I teach / mentor about Data Science in FTW Foundation. I manage a tech data community, Data Engineering Pilipinas. One of my goals is to eventually build free and open source materials that will enable free data bootcamps in the Philippines.
+
+## Projects
+- [Data Engineering Pilipinas](https://github.com/ogbinar/DataEngineeringPilipinas)
