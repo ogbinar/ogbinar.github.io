@@ -1,10 +1,6 @@
 project:
   type: website
 
-
-resources:
-  - CNAME
-
 website:
   title: "Michel Learns to Code"
   description: "He is called Myk by his friends."
