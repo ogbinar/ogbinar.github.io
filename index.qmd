@@ -1,7 +1,7 @@
 ---
 title: "Michel Learns to Code"
 about:
-    template: trestles
+    template: jolla
     links:
         - icon: linkedin
           text: LinkedIn
