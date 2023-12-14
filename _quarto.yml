@@ -26,7 +26,8 @@ format:
     toc_smooth_scroll: true
     toc_highlight: true
     fig-align: center
-
+resources:
+  - CNAME
 
 
 
