@@ -126,7 +126,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://ogbinar.com"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/ogbinar/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
