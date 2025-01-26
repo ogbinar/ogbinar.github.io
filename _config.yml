@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Myk Ogbinar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data, Analytics, A.I., Community"
+  bio              : "Data, Insights, AI, & Community"
   location         : "Philippines"
   email            :
   links:
@@ -124,19 +124,19 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://ogbinar.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/ogbinar/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/ogbinar"
+    - label: "Orcid"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0009-0008-0231-4173"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=c4qpaMYAAAAJ"
 
 # Site Footer
 footer:
