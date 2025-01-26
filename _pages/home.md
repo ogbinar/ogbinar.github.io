@@ -5,10 +5,8 @@ permalink: /
 
 ---
 
-Hi, I'm **Myk**! I'm passionate about data, AI, and building communities. As a corporate data professional, PhD student, and community leader, I explore cutting-edge AI techniques and love sharing knowledge with others.
+Hi, I’m **Myk**! I’m passionate about data, AI, and building communities. As a corporate professional and PhD student, I enjoy exploring AI and sharing knowledge.
 
-This website is a place to share my projects, ideas, and things I'm learning about technology, data, and beyond. I believe in lifelong learning, open collaboration, and the power of data to make an impact.
+This site is where I share my projects, ideas, and learning journey. I believe in lifelong learning, collaboration, and the impact of data.
 
-When I'm not working or studying, you'll find me mentoring others, contributing to open-source projects, or spending time with my family.
-
-Feel free to add me up in LinkedIn and say hi! 
+When I’m not working or studying, I play read books or games, and spend a lot of time with family. Connect with me on LinkedIn and say hi!
