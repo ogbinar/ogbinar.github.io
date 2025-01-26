@@ -1,14 +1,6 @@
 ---
-layout: splash
+layout: single
+title: "Home"
 permalink: /
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
-
-hello
+Content for your homepage goes here.
