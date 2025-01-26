@@ -1,20 +1,31 @@
 ---
-layout: single
+layout: splash
 title: "Home"
 permalink: /
-show_title: false
+feature_row:
+  - image_path: /assets/images/myk_talk.png
+    alt: "Myk giving a talk"
+    title: "About Me"
+    excerpt: "Hi, I'm **Myk**! I'm passionate about data, AI, and building communities. I share my projects and ideas here."
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+    url: "#about"
+
+  - image_path: /assets/images/project.png
+    alt: "Project showcase"
+    title: "Projects"
+    excerpt: "Explore some of my key projects in data, AI, and community building. Each one is a journey of impact and learning."
+    btn_label: "View Projects"
+    btn_class: "btn--inverse"
+    url: "#projects"
+
+  - image_path: /assets/images/community.png
+    alt: "Community"
+    title: "Community Work"
+    excerpt: "I'm committed to building communities that foster open collaboration and knowledge sharing in tech."
+    btn_label: "Get Involved"
+    btn_class: "btn--primary"
+    url: "#community"
 ---
 
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>Hi, I'm <strong>Myk</strong>! I'm passionate about data, AI, and building communities. As a corporate data professional, PhD student, and community leader, I explore cutting-edge AI techniques and love sharing knowledge with others.</p>
-
-    <p>This website is a place to share my projects, ideas, and things I'm learning about technology, data, and beyond. I believe in lifelong learning, open collaboration, and the power of data to make an impact.</p>
-
-    <p>When I'm not working or studying, you'll find me mentoring others, contributing to open-source projects, or spending time with my family.</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="assets/images/myk_talk.png" alt="Myk Ogbinar giving a talk" style="max-width: 100%; border-radius: 8px;">
-  </div>
-</div>
+{% include feature_row %}
