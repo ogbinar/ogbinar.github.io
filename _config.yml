@@ -123,7 +123,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/ogbinar/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -134,7 +134,7 @@ author:
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=c4qpaMYAAAAJ"
-    - label: "Download Resume"
+    - label: "Download CV"
       icon: "fa fa-download"
       url: "assets/resume/Myk-Ogbinar-Resume-2025.pdf"
 
