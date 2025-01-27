@@ -11,7 +11,7 @@ permalink: /
   <div style="flex: 1; max-width: 600px; text-align: left; font-size: 1em; line-height: 1.6;">
     <p><strong>Hi, I’m Myk!</strong> I’m passionate about data, AI, and engaging communities. I’m a full-time corporate professional and part-time PhD student, passionate about exploring AI and sharing knowledge.</p>
     <p>This site is where I share my links, projects, and learning journey. I believe in lifelong learning, collaboration, and the impact of data.</p>
-    <p>When I’m not working or studying, I read books, play games, and spend time with family. <a href="https://www.linkedin.com/in/ogbinar/" target="_blank">Connect with me on LinkedIn</a> and say hi!</p>
+    <p>When I’m not working or studying, I read books, play games, and spend time with family. Feel free to say hi!</p>
   </div>
 
   <!-- Right Side: Image -->
