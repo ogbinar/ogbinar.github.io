@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Myk Ogbinar"
-  avatar           : "/assets/images/myk_profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data, Insights, AI, & Community"
   location         : "Philippines"
   email            :
