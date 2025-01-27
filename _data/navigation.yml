@@ -4,8 +4,9 @@ main:
     url: https://dataengineering.ph/
   - title: "The Puso Project"
     url: https://www.thepusoproject.ph/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Pi Day PH"
+    url: https://piday.ph/
+    
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
