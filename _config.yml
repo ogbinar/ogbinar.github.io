@@ -137,6 +137,7 @@ author:
     - label: "Download CV"
       icon: "fa fa-download"
       url: "assets/resume/Myk-Ogbinar-Resume-2025.pdf"
+      target: "_blank"
 
 # Site Footer
 footer:
