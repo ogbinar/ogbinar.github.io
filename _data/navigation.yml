@@ -1,13 +1,8 @@
 # main links
 main:
-  - title: "Data Engineering Pilipinas"
-    url: https://dataengineering.ph/
-  - title: "The Puso Project"
-    url: https://www.thepusoproject.ph/
-  - title: "Pi Day PH"
-    url: https://piday.ph/
-    
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /#about
+  - title: "Projects"
+    url: /#projects
+  - title: "Contact"
+    url: /#contact

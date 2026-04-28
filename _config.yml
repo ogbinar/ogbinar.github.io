@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : ""
+title                    : "Myk Ogbinar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Myk Ogbinar"
-description              : "A place on the internet I dump my links, ideas, and other stuff."
+description              : "Myk Ogbinar's personal site for data, AI, community work, and selected projects."
 url                      : "https://ogbinar.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ogbinar/ogbinar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -132,34 +132,25 @@ author:
       icon: "fab fa-orcid"
       url: "https://orcid.org/0009-0008-0231-4173"
     - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=c4qpaMYAAAAJ"
     - label: "Download CV"
       icon: "fa fa-download"
-      url: "assets/resume/Myk-Ogbinar-Resume-2025.pdf"
+      url: "/assets/resume/Myk-Ogbinar-Resume-2025.pdf"
       target: "_blank"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/ogbinar"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ogbinar/"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=c4qpaMYAAAAJ"
 
 
 # Reading Files
