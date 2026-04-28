@@ -50,7 +50,7 @@ permalink: /
     </p>
     <p>
       Outside of work, I keep up with learning, books, games, and family life. The tone here is intentionally
-      simple: a small personal site that puts the work first.
+      simple.
     </p>
   </div>
 </section>
@@ -95,4 +95,3 @@ permalink: /
     <a href="/assets/resume/Myk-Ogbinar-Resume-2025.pdf" target="_blank" rel="noopener noreferrer">CV</a>
   </div>
 </section>
-
