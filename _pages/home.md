@@ -73,7 +73,7 @@ permalink: /
       <span class="project-card__body">A people-centered project with room for ideas, collaboration, and public value.</span>
     </a>
 
-    <a class="project-card" href="https://piday.ph/" target="_blank" rel="noopener noreferrer">
+    <a class="project-card" href="https://ogbinar.com/new-pi-day-ph/" target="_blank" rel="noopener noreferrer">
       <span class="project-card__eyebrow">Event</span>
       <strong class="project-card__title">Pi Day PH</strong>
       <span class="project-card__body">A simple public-facing home for celebrating curiosity, math, and learning.</span>
