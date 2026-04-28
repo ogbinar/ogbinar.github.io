@@ -46,11 +46,10 @@ permalink: /
   <div class="home-panel">
     <p>
       I’m a full-time corporate professional and part-time PhD student with a long-running interest in data,
-      AI, and community building. I like projects that make complexity legible and outcomes easier to act on.
+      AI, and community building.
     </p>
     <p>
-      Outside of work, I keep up with learning, books, games, and family life. The tone here is intentionally
-      simple.
+      Outside of work, I keep up with learning, books, games, and family life.
     </p>
   </div>
 </section>
