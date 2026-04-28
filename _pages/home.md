@@ -67,7 +67,7 @@ permalink: /
       <span class="project-card__body">A community for people building modern data systems in the Philippines.</span>
     </a>
 
-    <a class="project-card" href="https://www.thepusoproject.ph/" target="_blank" rel="noopener noreferrer">
+    <a class="project-card" href="https://tpp.dataengineering.ph/" target="_blank" rel="noopener noreferrer">
       <span class="project-card__eyebrow">Initiative</span>
       <strong class="project-card__title">The Puso Project</strong>
       <span class="project-card__body">A people-centered project with room for ideas, collaboration, and public value.</span>
