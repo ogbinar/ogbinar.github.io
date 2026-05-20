@@ -113,6 +113,13 @@ body {
   font-size: 1.02rem;
 }
 
+.home-section__lede {
+  max-width: 42rem;
+  margin: -0.35rem 0 0;
+  color: var(--site-muted);
+  line-height: 1.7;
+}
+
 .home-hero__lede {
   max-width: 34rem;
   margin: 1.2rem 0 0;
@@ -197,6 +204,19 @@ body {
   font-size: clamp(1.6rem, 3vw, 2.4rem);
 }
 
+.project-group + .project-group {
+  margin-top: 1.5rem;
+}
+
+.project-group__title {
+  margin: 0 0 0.85rem;
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--site-muted);
+}
+
 .home-panel,
 .project-card,
 .contact-strip {
@@ -221,7 +241,7 @@ body {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 1rem;
 }
 

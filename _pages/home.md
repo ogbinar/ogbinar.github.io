@@ -60,24 +60,54 @@ permalink: /
     <h2 id="projects-title">A few projects and communities I care about.</h2>
   </div>
 
-  <div class="project-grid">
-    <a class="project-card" href="https://dataengineering.ph/" target="_blank" rel="noopener noreferrer">
-      <span class="project-card__eyebrow">Community</span>
-      <strong class="project-card__title">Data Engineering Pilipinas</strong>
-      <span class="project-card__body">A community for people building modern data systems in the Philippines.</span>
-    </a>
+  <p class="home-section__lede">
+    These are grouped by the kind of work they are so the mix of community, public-facing work, and experiments is
+    easier to scan.
+  </p>
 
-    <a class="project-card" href="https://tpp.dataengineering.ph/" target="_blank" rel="noopener noreferrer">
-      <span class="project-card__eyebrow">Initiative</span>
-      <strong class="project-card__title">The Puso Project</strong>
-      <span class="project-card__body">A people-centered project with room for ideas, collaboration, and public value.</span>
-    </a>
+  <div class="project-group">
+    <h3 class="project-group__title">Communities and initiatives</h3>
+    <div class="project-grid">
+      <a class="project-card" href="https://dataengineering.ph/" target="_blank" rel="noopener noreferrer">
+        <span class="project-card__eyebrow">Community</span>
+        <strong class="project-card__title">Data Engineering Pilipinas</strong>
+        <span class="project-card__body">A community for people building modern data systems in the Philippines.</span>
+      </a>
 
-    <a class="project-card" href="https://ogbinar.com/new-pi-day-ph/" target="_blank" rel="noopener noreferrer">
-      <span class="project-card__eyebrow">Event</span>
-      <strong class="project-card__title">Pi Day PH</strong>
-      <span class="project-card__body">A simple public-facing home for celebrating curiosity, math, and learning.</span>
-    </a>
+      <a class="project-card" href="https://tpp.dataengineering.ph/" target="_blank" rel="noopener noreferrer">
+        <span class="project-card__eyebrow">Initiative</span>
+        <strong class="project-card__title">The Puso Project</strong>
+        <span class="project-card__body">A people-centered project with room for ideas, collaboration, and public value.</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="project-group">
+    <h3 class="project-group__title">Public-facing work</h3>
+    <div class="project-grid">
+      <a class="project-card" href="https://ogbinar.com/new-pi-day-ph/" target="_blank" rel="noopener noreferrer">
+        <span class="project-card__eyebrow">Event</span>
+        <strong class="project-card__title">Pi Day PH</strong>
+        <span class="project-card__body">A simple public-facing home for celebrating curiosity, math, and learning.</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="project-group">
+    <h3 class="project-group__title">Personal projects</h3>
+    <div class="project-grid">
+      <a class="project-card" href="https://ogbinar.com/book-homelab/" target="_blank" rel="noopener noreferrer">
+        <span class="project-card__eyebrow">Project</span>
+        <strong class="project-card__title">Book Homelab</strong>
+        <span class="project-card__body">A practical home for notes, experiments, and systems around books and reading.</span>
+      </a>
+
+      <a class="project-card" href="https://ogbinar.com/bahala-na-python/" target="_blank" rel="noopener noreferrer">
+        <span class="project-card__eyebrow">Project</span>
+        <strong class="project-card__title">Bahala Na Python</strong>
+        <span class="project-card__body">A Python project with a light, exploratory spirit and room to grow.</span>
+      </a>
+    </div>
   </div>
 </section>
 
